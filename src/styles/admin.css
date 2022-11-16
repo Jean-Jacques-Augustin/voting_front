@@ -1,0 +1,7 @@
+
+
+.admin {
+    display: flex;
+    min-height: 85vh;
+    flex-direction: column;
+}
